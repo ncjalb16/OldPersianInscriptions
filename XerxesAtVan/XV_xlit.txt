@@ -13,10 +13,10 @@
 13=a-ya-tha-i-ya: a-ha-ya-a-ya-a: na-u-mi-i-ya-a: va-
 14=za-ra-ka-a-ya-a: du-u-ra-i-ya: a-pa-i-ya: da-a-ra-ya-
 15=-va-ha-u-sha: xa-sha-a-ya-tha-i-ya-ha-ya-a: pa-u-sra: ha-
-16=-xa-a-ma-na-i-sha-i-ya: tha-a-ta-i-ya: xa-sha-ya-a-ra-sha-a-
+16=xa-a-ma-na-i-sha-i-ya: tha-a-ta-i-ya: xa-sha-ya-a-ra-sha-a-
 17=: xa-sha-a-ya-tha-i-ya: da-a-ra-ya-va-u-sha: xa-sha-a-ya-
 18=tha-i-ya: ha-ya: ma-na-a: pa-i-ta-a: ba-i-ta-a: ha-u-va: va-
-19=-sha-na-a: a-u-ra-ma-za-da-a-ha: va-sa-i-ya: ta-ya:
+19=sha-na-a: a-u-ra-ma-za-da-a-ha: va-sa-i-ya: ta-ya:
 20=na-i-ka-ma: a-ku-u-na-(u)-sha: u-ta-a: i-ma: sa-ta
 21=a-na-ma: ha-u-va: na-i-ya-sha-ta-a-ya: ba-ta-na-i-ya:
 22=: ya-na-i-ya: di-i-pa-i-ma: na-i-ya: na-i-pa-i-sha-ta
