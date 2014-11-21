@@ -1,1 +1,29 @@
-1=
+urn:cts:oldpersian:D.B.hc:1.1=:a-da-ma:da-a-ra-ya-va-u-sha:va-za-ra-ka:xa-sha-a-ya-tha-i-[ya]:[xa-sha-a-ya]-tha-i-ya
+urn:cts:oldpersian:D.B.hc:1.2=:a-na-a-ma:xa-sha-a-ya-tha-i-ya:pa-a-ra-sa-i-ya:xa-sha-a-ya-tha-i-ya:da-ha-[ya-u-na-a-ma:]vi-sha-ta
+urn:cts:oldpersian:D.B.hc:1.3=:a-sa-pa-ha-ya-a:pa-u-sra:a-ra-sha-a-ma-ha-ya-ya-a:na-pa-a:ha-xa-a-ma-na-i-sha-[i-ya]:-[tha]-a-ta-i-ya:
+urn:cts:oldpersian:D.B.hc:1.4=:da-a-ra-ya-va-u-sha:xa-sha-a-ya-tha-i-ya:ma-na-a:pa-i-ta-a:vi-sha-ta-a-sa-pa:vi-sha-ta-a-sa-pa-[ha-ya-a:pa-i-ta]-a:a-ra-sha
+urn:cts:oldpersian:D.B.hc:1.5=:a-ma:a-ra-sha-a-ma-na-ha-ya-a:pa-i-ta-a:a-ra-i-ya-a-ra-ma-na:a-ra-i-ya-a-ra-ma-na-ha-ya-a:pa-i-ta-[a:cha-i-sha-pa-i-sha]:cha-i-sha-pa
+urn:cts:oldpersian:D.B.hc:1.6=:a-i-sha:pa-i-ta-a:ha-xa-a-ma-na-i-sha:tha-a-ta-i-ya: da-a-ra-ya-va-u-sha:xa-sha-a-ya-[tha-i-ya:a-va]-ha-ya-ra-a
+urn:cts:oldpersian:D.B.hc:1.7=:di-i-ya:va-ya-ma:ha-xa-a-ma-na-i-sha-i-ya-a:tha-ha-ya-a-ma-ha-ya:ha-cha-a:pa-ru-u-vi-[i-ya-ta:]a-ma-a-ta:a-ma
+urn:cts:oldpersian:D.B.hc:1.8=:ha-ya:ha-cha-a:pa-ru-u-vi-i-ya-ta:ha-ya-a:a-ma-a-xa-ma:ta-u-ma-a:xa-sha-a-ya-[tha-i-ya:a]-ha:tha
+urn:cts:oldpersian:D.B.hc:1.9=:a-ta-i-ya:da-a-ra-ya-va-u-sha:xa-sha-a-ya-tha-i-ya:8:ma-na-a:ta-u-ma-ya-[a:ta-ya-i]-ya:[pa]-ru-u-va-ma
+urn:cts:oldpersian:D.B.hc:1.10=::xa-sha-a-ya-tha-i-ya:a-ha:a-da-ma:na-va-ma:9:gi-u-vi-i-ta-a-pa-ra-na-ma[:va-ya-ma:]xa-sha-a-ya-tha-i
+urn:cts:oldpersian:D.B.hc:1.11=:ya-a:a-ma-ha-ya         :tha-a-ta-i-ya:da-a-ra-ya-va-u-sha:xa-sha-a-ya-tha-i-ya:va-[sha-na-a-:]a-u-ra-ma-za-da
+urn:cts:oldpersian:D.B.hc:1.12=:a-ha:a-da-ma:xa-sha-a-ya-tha-i-ya:a-mi-i-ya:a-u-ra-ma-za-da:xa-sha-sra-ma:ma-na-a[:fa-ra]-a-ba-ra         :tha
+urn:cts:oldpersian:D.B.hc:1.13=:a-ta-i-ya:da-a-ra-ya-va-u-sha:xa-sha-a-ya-tha-i-ya:i-ma-a:da-ha-ya-a-va:ta-ya-a:ma-na-a[:pa-ta]i-ya-a-i-sha:va-sha-na
+urn:cts:oldpersian:D.B.hc:1.14=:a:a-u-ra-ma-za-da-a-ha:[a]-da-ma-sha-a-ma:xa-sha-a-ya-tha-i-ya:a-ha-ma:pa-a-ra-sa:u-va-ja[:ba]-a-ba-i-ru-u-sha:a
+urn:cts:oldpersian:D.B.hc:1.15=:tha-u-ra-a:a-ra-ba-a-ya[:]mu-u-da-ra-a-ya:ta-ya-i-ya:da-ra-ya-ha-ya-a:sa-pa-ra-da:ya-u-na-[:ma-a-da]:a-ra-mi-i-na:ka-ta
+urn:cts:oldpersian:D.B.hc:1.16=:pa-tu-u-ka:pa-ra-tha-va:za-ra-ka:ha-ra-i-va:u-va-a-ra-za-mi-i-ya:ba-a-xa-ta-ra-i-sha:[sa-u-gu]-u-da:ga-da-a-ra:sa
+urn:cts:oldpersian:D.B.hc:1.17=:ka:tha-ta-gu-u-sha:ha-[ra]-u-va-ta-i-sha:ma-ka:fa-ra-ha-ra-va-ma:da-ha-ya-a-va:23:tha-a-ta-i-ya:da-a-ra
+urn:cts:oldpersian:D.B.hc:1.18=:ya-va-u-sha:xa-sha-a-ya-tha-i-ya:da-ma-a:da-ha-ya-a-va:ta-ya-a:ma-na-a:pa-ta-i-[ya-a-i-sha]:va-sha-na-a:a-u
+urn:cts:oldpersian:D.B.hc:1.19=:ra(ma-za-da-a-ha:ma-[na]-a:ba-da-ka-a:a-ha-ta-a:ma-na-a:ba-a-ji-i-ma:a-ba-ra-ta-a[:ta-ya]-sha-a-ma:ha-ca-a-ma
+urn:cts:oldpersian:D.B.hc:1.20=::a-tha-ha-ya:xa-sha-pa-va-a:ra-u-ca-pa-ta-i-va-a:a-va:a-ku-u-na-va-ya-ta-a:tha-a-ta-i-ya:da-a-ra-ya-va
+urn:cts:oldpersian:D.B.hc:1.21
+urn:cts:oldpersian:D.B.hc:1.22
+urn:cts:oldpersian:D.B.hc:1.23
+urn:cts:oldpersian:D.B.hc:1.24
+urn:cts:oldpersian:D.B.hc:1.25
+urn:cts:oldpersian:D.B.hc:1.26
+urn:cts:oldpersian:D.B.hc:1.27
+urn:cts:oldpersian:D.B.hc:1.28
+urn:cts:oldpersian:D.B.hc:1.29
